@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Ubaid ur Rehman</h1>
 
-- 🔭 I’m currently working on C, Python, Matlab, Flutter
+- 🔭 I’m currently working on C, Python, Matlab, dart, Flutter
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about  C, Python, Matlab, Flutter
+- 💬 Ask me anything about  C, Python, Matlab, dart, Flutter
 - 📫 How to reach me: engr.rehmanubaid@gmail.com
 - ⚡ Fun fact: You are reading my profile
   
@@ -22,7 +22,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,matlab,c,flutter,dart,firebase,github,git,)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=URALI002&show_icons=true&theme=dark)
+![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=URALI002&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=URALI002&theme=dark)
 
